@@ -1,0 +1,15 @@
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/bin/Debug/net6.0/Example03_Sum
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/bin/Debug/net6.0/Example03_Sum.deps.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/bin/Debug/net6.0/Example03_Sum.runtimeconfig.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/bin/Debug/net6.0/Example03_Sum.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/bin/Debug/net6.0/Example03_Sum.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.csproj.AssemblyReference.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.AssemblyInfoInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.AssemblyInfo.cs
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.csproj.CoreCompileInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/refint/Example03_Sum.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/Example03_Sum.genruntimeconfig.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example03_Sum/obj/Debug/net6.0/ref/Example03_Sum.dll
