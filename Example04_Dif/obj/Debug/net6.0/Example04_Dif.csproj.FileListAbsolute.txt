@@ -1,0 +1,15 @@
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/bin/Debug/net6.0/Example04_Dif
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/bin/Debug/net6.0/Example04_Dif.deps.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/bin/Debug/net6.0/Example04_Dif.runtimeconfig.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/bin/Debug/net6.0/Example04_Dif.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/bin/Debug/net6.0/Example04_Dif.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.csproj.AssemblyReference.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.AssemblyInfoInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.AssemblyInfo.cs
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.csproj.CoreCompileInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/refint/Example04_Dif.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/Example04_Dif.genruntimeconfig.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example04_Dif/obj/Debug/net6.0/ref/Example04_Dif.dll
