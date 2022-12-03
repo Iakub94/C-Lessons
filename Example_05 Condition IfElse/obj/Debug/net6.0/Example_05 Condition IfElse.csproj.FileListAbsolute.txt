@@ -1,0 +1,15 @@
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.csproj.AssemblyReference.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.AssemblyInfoInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.AssemblyInfo.cs
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.csproj.CoreCompileInputs.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/bin/Debug/net6.0/Example_05 Condition IfElse
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/bin/Debug/net6.0/Example_05 Condition IfElse.deps.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/bin/Debug/net6.0/Example_05 Condition IfElse.runtimeconfig.json
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/bin/Debug/net6.0/Example_05 Condition IfElse.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/bin/Debug/net6.0/Example_05 Condition IfElse.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/refint/Example_05 Condition IfElse.dll
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.pdb
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/Example_05 Condition IfElse.genruntimeconfig.cache
+/Users/aleksandriakubov/Desktop/Examples C# Lessons/Example_05 Condition IfElse/obj/Debug/net6.0/ref/Example_05 Condition IfElse.dll
